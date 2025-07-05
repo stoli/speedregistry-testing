@@ -4,6 +4,10 @@ Welcome to the official testing hub for the **SpeedRegistry** Android, iOS, and 
 This repository provides early access builds and a place to report bugs, suggest improvements, and help shape development.
 
 ---
+## 🚀 Tesst the lastest Web Build
+
+https://SpeedRegistry.com
+
 
 ## 🚀 Download the Latest Android Build
 
